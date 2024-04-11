@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 namespace Minions
 {
+    //zadacha
     public partial class Form1 : Form
     {
         string conectionString = "server=10.42.42.64;" +
